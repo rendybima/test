@@ -1,0 +1,115 @@
+:root {
+    --white: #ffffff;
+    --green: #09B451;
+
+}
+
+.html {
+    scroll-behavior: smooth;
+}
+
+.logosmk {
+    width: 272px;
+    height: 90px;
+    left: 32px;
+
+}
+
+.navbar {
+    --bs-navbar-padding-y: 0;
+}
+
+.cashier-navbar {
+    padding: 30px;
+    background: var(--white);
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+}
+
+.search {
+    width: 24px;
+    height: 24px;
+    top: 32px;
+    left: 1116px;
+    padding: 2px 3.292999267578125px 3.2919998168945312px 2px;
+}
+
+
+.big-header {
+font-family: Poppins;
+font-size: 60px;
+font-weight: 700;
+line-height: 90px;
+letter-spacing: 0em;
+margin-left: 30px;
+}
+
+.mt-70 {
+    margin-top: 70px;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+.mr-30 {
+    margin-right: 30px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-16 {
+    margin-bottom: 16px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+span {
+    color: var(--green)
+}
+
+.header-bg{
+    background: #e6fcef;
+    border-radius: 50px;
+    width: 1240px;
+    height: 605px;
+    top: 112px;
+    left: 100px;
+}
+
+.img-fluid { 
+    margin-top: 40px;
+}
+
+.pill-item {
+    margin-top: 84px;
+    border-radius: 5px;
+    background: #dff;
+    width: 220px;
+    height: 60px;
+    display: flex;
+    padding: 10px 22px 10px 17px;
+    align-items: center;
+    gap: 12px;
+}
+
+.pill-text {
+    color: #000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.pill-text-1 {
+    font-size: 15px;
+}
